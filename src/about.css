@@ -1,0 +1,30 @@
+.abtDiv {
+  width: 100%;
+  padding-top: 1%;
+  background-color: black;
+  color: white;
+  display: flex;
+}
+.abtDiv h4,
+h6 {
+  padding-left: 2%;
+}
+.abtDiv p {
+  font-size: 14px;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.aboutContact {
+  width: 40%;
+  padding-left: 8%;
+  padding-right: 3%;
+}
+.aboutPara {
+  width: 60%;
+}
+@media screen and(max-width:900px) {
+  .abtDiv {
+    flex-direction: column;
+    place-items: center;
+  }
+}

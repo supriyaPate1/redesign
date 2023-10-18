@@ -1,0 +1,30 @@
+[{"id":1,"image":"http://www.way2door.com/images/products/tamato.jpg","prodName":"Tomato","category":"Vegetable","price":"Rs.50 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":2,"image":"http://www.way2door.com/images/products/potato.jpg","prodName":"Potato","category":"Vegetable","price":"Rs.25","quantity":0,"totalPrice":0,"cartVal":0,"weight":"1kg"},
+
+{"id":3,"image":"http://www.way2door.com/images/products/onion.jpg","prodName":"Onion","category":"","price":"Rs.40 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":4,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Papaya-way2door.jpg","prodName":"Papaya","category":"Vegetable","price":"Rs.30 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":5,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Green%20Coconut-way@door.jpg","prodName":"Green Coconut","category":"Fruit","price":"Rs.70 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":6,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Date%20Crown%20Fard%20Dates-way2door.jpg","prodName":"Dates Crown Premium","category":"Dry fruit","price":"Rs.200","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":7,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Large%20Round%20Brinjal%20(Bharta).jpg","prodName":"Large Round Brinjal","category":"Vegetable","price":"Rs.26","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":8,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Long%20Brinjal-way2door.jpg","prodName":"Long Brinjal","category":"Vegetable","price":"Rs.25 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":9,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Lady%20Finger-way2door.jpg","prodName":"Lady Finger","category":"Vegetable","price":"Rs.40 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":10,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Green%20Chilli.jpg","prodName":"Chilli","category":"Green Chilli","price":"Rs.21 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"250g"},
+
+{"id":11,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Green%20Capsicum-way2door.jpg","prodName":"Capsicum","category":"","price":"Rs.50 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":12,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Orange%20Carrot-way2door.jpg","prodName":"Carrot","category":"Vegetable","price":"Rs.40 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":13,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Cauliflower.jpg","prodName":"Cauliflower","category":"Vegetable","price":"Rs.50 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"500g"},
+
+{"id":14,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Pomegranate%20(Anaar).jpg","prodName":"Pomegranate","category":"Fruit","price":"Rs.180 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"1kg"},
+
+{"id":15,"image":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Nagpur%20Orange%20way@door.jpg","prodName":"Mosami","category":"Fruit","price":"Rs.52 ","quantity":0,"totalPrice":0,"cartVal":0,"weight":"1kg"}
+]

@@ -1,0 +1,25 @@
+[
+    {"id":101,"imageName":"Tomato","imageToy":"http://www.way2door.com/images/products/tamato.jpg","reducedPrice":55,"price":50,"weigth":"1kg","totalPrice":0,"quantity":0, "cartVal":0,"category":"Vegetable"},
+
+    {"id":102,"imageName":"Potato","imageToy":"http://www.way2door.com/images/products/potato.jpg","reducedPrice":46,"price":40 ,"weigth":"1kg","totalPrice":0 , "quantity":0,"cartVal":0,"category":"Vegetable"},
+
+    {"id":103,"imageName":"Onion","imageToy":"http://www.way2door.com/images/products/onion.jpg","reducedPrice":52,"price":50 ,"weigth":"1kg","totalPrice":0, "quantity":0, "cartVal":0,"category":"Vegetable"},
+
+    {"id":104,"imageName":"Papaya","imageToy":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Papaya-way2door.jpg","reducedPrice":33,"price":30,"weigth":"1 Piece","totalPrice":0,  "quantity":0,"cartVal":0,"category":"Fruit"},
+
+    {"id":105,"imageName":"Green Coconut","imageToy":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Green%20Coconut-way@door.jpg","reducedPrice":44,"price":40 ,"weigth":"1 Piece","totalPrice":0,  "quantity":0,"cartVal":0,"category":"Fruit"},
+
+    {"id":106,"imageName":"Crown Dates","imageToy":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Date%20Crown%20Fard%20Dates-way2door.jpg","reducedPrice":550,"price":510 ,"weigth":"500gm","totalPrice":0,  "quantity":0,"cartVal":0,"category":"Dryfruit"},
+
+    {"id":107,"imageName":"Brinjal (round)","imageToy":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Large%20Round%20Brinjal%20(Bharta).jpg","reducedPrice":37,"price":30,"weigth":"500gm","totalPrice":0,  "quantity":0,"cartVal":0,"category":"Vegetable"},
+
+    {"id":108,"imageName":"Lady Finger","imageToy":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Lady%20Finger-way2door.jpg","reducedPrice":70,"price":80,"weigth":"1kg","totalPrice":0,  "quantity":0,"cartVal":0,"category":"Vegetable"},
+
+    {"id":109,"imageName":"Green Chilli","imageToy":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Green%20Chilli.jpg","reducedPrice":22,"price":20 ,"weigth":"250gm","totalPrice":0,  "quantity":0,"cartVal":0,"category":"Vegetable"},
+
+    {"id":110,"imageName":"Green Capsicum","imageToy":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Green%20Capsicum-way2door.jpg","reducedPrice":94,"price":90 ,"weigth":"1kg","totalPrice":0 , "quantity":0,"cartVal":0,"category":"Vegetable"},
+
+    {"id":111,"imageName":"Carrot","imageToy":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Orange%20Carrot-way2door.jpg","reducedPrice":46,"price":40 ,"weigth":"500gm","totalPrice":0 , "quantity":0,"cartVal":0,"category":"Vegetable"},
+
+    {"id":112,"imageName":"Cauliflower","imageToy":"http://www.way2door.com/AllProducts/fruits_and_vegetables/Cauliflower.jpg","reducedPrice":30,"price":35 ,"weigth":"1 Piece","totalPrice":0 , "quantity":0,"cartVal":0,"category":"Vegetable"}
+]

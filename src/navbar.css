@@ -1,0 +1,232 @@
+.navbars2 {
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.NavMain {
+  width: 100%;
+  background-color: var(--Nav);
+  display: flex;
+  font-family: "grobold";
+  justify-content: space-around;
+  align-items: center;
+}
+.NavMain div {
+  cursor: pointer;
+}
+.NavMain a {
+  color: white;
+  text-decoration: none;
+}
+body {
+  background-color: rgb(250, 243, 244);
+}
+:root {
+  --Nav: #fcf7f8;
+  --ser_bg: rgb(220, 238, 199);
+  --ser_hover: rgb(221, 233, 54);
+  --pic2: rgb(219, 248, 248);
+  --rev: #faf49f;
+  --rev_text: black;
+  --car_pro_bg: rgb(238, 236, 236);
+  --car_pro_hover: rgb(233, 215, 235);
+  --cartBg: rgb(197, 195, 190);
+  --btn_add: orangered;
+  --loginBG: white;
+  --wishbg: rgb(212, 161, 67);
+  --invert: 0%;
+  --empbg: rgb(189, 142, 150);
+  --clrFil: #8a2e48;
+}
+.darktheme {
+  background-color: black;
+  color: white;
+  --Nav: black;
+  --ser_bg: black;
+  --ser_hover: gray;
+  --pic2: black;
+  --rev: black;
+  --rev_text: white;
+  --car_pro_bg: black;
+  --car_pro_hover: black;
+  --cartBg: gray;
+  --btn_add: black;
+  --loginBG: gray;
+  --wishbg: gray;
+  --invert: 100%;
+  --empbg: black;
+  --clrFil: black;
+}
+.Divlogo {
+  width: 10%;
+  text-align: center;
+}
+.Divlogo h2 {
+  color: #f0e7ea;
+  font-family: "grobold";
+  font-size: 28px;
+  line-height: 1;
+  text-shadow: none;
+}
+.DivOthers {
+  width: 45%;
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  align-items: center;
+}
+.navbar2 {
+  display: flex;
+  font-family: "grobold";
+  justify-content: space-around;
+  padding-top: 0.4%;
+  padding-bottom: 0.4%;
+  background-color: var(--Nav);
+}
+.navbar2 a {
+  color: white;
+  text-decoration: none;
+}
+.navbar2 select {
+  background-color: var(--Nav);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.navbar2 button {
+  background-color: var(--clrFil);
+  border: none;
+  color: white;
+}
+#navbar2 {
+  display: none;
+}
+.clearbtn button {
+  background-color: var(--clrFil);
+}
+.paperNav {
+  background-color: rgb(231, 171, 181);
+  height: 100vh;
+  text-align: center;
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.paperNav select {
+  margin-top: 8%;
+  border: none;
+  background-color: rgb(231, 171, 181);
+}
+.paperNav select:hover {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: beige;
+  cursor: pointer;
+}
+
+/* .......................................... */
+.greenNav {
+  background-color: green;
+  padding: 0.8%;
+  display: flex;
+  font-size: 15px;
+  color: white;
+}
+.leftText {
+  width: 25%;
+  cursor: pointer;
+}
+.divSpace {
+  width: 30%;
+}
+.rightText {
+  width: 45%;
+  display: flex;
+  cursor: pointer;
+  justify-content: space-around;
+}
+.rightText a {
+  color: white;
+  text-decoration: none;
+}
+.Nav2 {
+  width: 100%;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.NavLogo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.divImg img {
+  width: 80%;
+  cursor: pointer;
+}
+.fa-opencart {
+  cursor: pointer;
+  font-size: 34px;
+}
+.midtext p {
+  color: blueviolet;
+}
+.storebtn {
+  margin-top: -0.6%;
+}
+.storebtn button {
+  background-color: white;
+  border: none;
+  padding: 1%;
+  cursor: pointer;
+}
+.storebtn button:hover {
+  background-color: rgb(233, 233, 233);
+}
+body {
+  background-color: rgb(250, 242, 250);
+}
+/* ............................................ */
+@media screen and (max-width: 900px) {
+  .navbar2 {
+    display: none;
+  }
+  #navbar2 {
+    display: block;
+  }
+}
+@media screen and (max-width: 900px) {
+  .NavMain {
+    flex-direction: column;
+    justify-items: center;
+  }
+}
+@media screen and (max-width: 900px) {
+  .DivSearch {
+    justify-items: center;
+    width: 90%;
+  }
+  .Divlogo {
+    width: 30%;
+  }
+  .DivOthers {
+    width: 90%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+}
+@media screen and (max-width: 400px) {
+  .DivSearch {
+    justify-items: center;
+    width: 90%;
+  }
+  .Divlogo {
+    width: 30%;
+  }
+  .DivOthers {
+    width: 90%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+}

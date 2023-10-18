@@ -1,0 +1,270 @@
+.shopMain {
+  width: 100%;
+  margin-bottom: 2%;
+}
+.toyDisp {
+  width: 24%;
+  margin-top: 3%;
+  border-radius: 5px;
+  margin-left: 2%;
+  background-color: var(--cartBg);
+  padding-bottom: 1%;
+}
+.cardsDisp {
+  display: flex;
+  width: 90%;
+  margin: auto;
+}
+.toyimg {
+  width: 100%;
+}
+.toyimg img {
+  width: 100%;
+  height: 20vh;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.DispImg img:hover {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.toyDetail {
+  width: 100%;
+}
+.toyDetail h6 {
+  margin-top: 1%;
+  color: black;
+  font-size: 14px !important;
+  text-align: center;
+}
+.toyDetail p {
+  color: rgb(34, 32, 32);
+  font-size: 1vw;
+  text-align: center;
+}
+.details {
+  margin-left: 2%;
+}
+.addCartbtn {
+  text-align: center;
+}
+.addCartbtn button {
+  font-size: 1vw;
+  color: white;
+  border-radius: 5px;
+  padding: 1%;
+}
+.addbtn {
+  width: 40%;
+  background-color: var(--btn_add);
+  border: 1px solid orangered;
+}
+.addCartbtn i {
+  cursor: pointer;
+}
+.wishbtn {
+  background-color: var(--wishbg);
+  border: rgb(212, 161, 67);
+}
+.fa-heart {
+  font-size: 20px;
+}
+.moveTop {
+  float: right;
+  margin-right: 0.6%;
+  bottom: 0;
+  border-radius: 50%;
+  padding: 0.6%;
+  background-color: rgb(57, 175, 175);
+  position: sticky;
+  cursor: pointer;
+  color: black;
+}
+.moveTop:hover {
+  color: red;
+}
+@media screen and (max-width: 850px) {
+  .cardsDisp {
+    width: 90%;
+    margin: auto;
+    flex-direction: column;
+    place-items: center;
+  }
+}
+@media screen and (max-width: 750px) {
+  .cardsDisp {
+    width: 90%;
+    margin: auto;
+    flex-direction: column;
+    place-items: center;
+  }
+}
+@media screen and (max-width: 850px) {
+  .toyDisp {
+    flex-direction: column;
+    width: 65%;
+    place-items: center;
+  }
+}
+@media screen and (max-width: 800px) {
+  .toyDisp {
+    flex-direction: column;
+    width: 65%;
+    place-items: center;
+  }
+}
+@media screen and (max-width: 700px) {
+  .toyDisp {
+    flex-direction: column;
+    width: 65%;
+    place-items: center;
+  }
+}
+.DivSearch{
+  text-align: center;
+  border-radius: 5px;
+  display: flex;
+  width: 100%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.DivSearch input{
+  width: 80%;
+  border: 1px solid black;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+#searchbtn{
+ border: 1px solid rgb(19, 29, 165);
+ background-color:rgb(19, 29, 165) ;
+ color: white;
+ border-top-right-radius: 4px;
+ border-bottom-right-radius: 4px;
+}
+.productAndFilters {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.filters {
+  width: 25%;
+  padding-left: 2%;
+}
+.upperDiv {
+  text-align: center;
+}
+#reviews {
+  border: 1px solid black;
+  background-color: red;
+  color: white;
+  border-radius: 20px;
+  font-size: 10px;
+  padding: 1.2%;
+  width: 35%;
+  cursor: pointer;
+}
+#contact {
+  border: 1px solid black;
+  background-color: green;
+  color: white;
+  border-radius: 20px;
+  font-size: 10px;
+  padding: 1.2%;
+  width: 35%;
+  cursor: pointer;
+}
+.lowerDiv {
+  border-left: 2px solid rgb(78, 161, 78);
+}
+.lowerDiv div {
+  border: 1px solid rgb(206, 209, 206);
+  padding: 6%;
+  cursor: pointer;
+}
+.lowerDiv div:hover {
+  background-color: rgb(226, 223, 226);
+}
+.productVeg {
+  width: 75%;
+}
+
+.timeOFStore {
+  display: flex;
+  place-items: center;
+}
+.divTime {
+  width: 40%;
+  text-align: center;
+}
+.divTime button {
+  background-color: green;
+  border: 1px solid green;
+  color: white;
+}
+.time {
+  color: green;
+}
+.divSpace {
+  width: 30%;
+}
+.divoffersbtn {
+  width: 25%;
+}
+.divoffersbtn button {
+  background-color: rgb(111, 223, 238);
+  border: 1px solid rgb(80, 223, 241);
+  border-radius: 4px;
+  padding: 2%;
+  width: 45%;
+  color: white;
+  cursor: pointer;
+}
+.divoffersbtn button:hover {
+  background-color: rgb(30, 187, 207);
+}
+.imageBanner {
+  width: 100%;
+  text-align: center;
+}
+.imageBanner img {
+  width: 98%;
+}
+.productAndFilters {
+  margin-top: 2%;
+}
+.filters {
+  width: 100%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
+.filters select {
+  border: none;
+  width: 98%;
+  margin-top: 2%;
+  padding: 2%;
+}
+.filters select:hover {
+  background-color: gray;
+  border-radius: 4px;
+}
+.clearbtn {
+  margin-top: 8%;
+  border: 1px solid red;
+  border-radius: 5px;
+  background-color: red;
+  width: 100%;
+}
+.rigthdivFiltrs {
+  /* position: sticky; */
+  border-right: 2px solid rgb(195, 199, 195);
+  padding-right: 3%;
+}
+.leftCont{
+  position: fixed;
+}
+.reducedPrice{
+  text-decoration: line-through;
+  color: red;
+}
